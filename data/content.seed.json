@@ -1,0 +1,829 @@
+{
+  "meta": {
+    "version": 1,
+    "updatedAt": "2026-11-17T17:55:31.696Z",
+    "note": "Obsah vychází z prezentace Seyfor Vema v1.4 a z dokumentu Nabídka VZOR. ODZ a JMHZ doplněny podle zadání. Ceny jsou vedeny mimo moduly, v samostatné cenové nabídce."
+  },
+  "brand": {
+    "name": "Vema",
+    "tagline": "HR systém pro personální a mzdové procesy",
+    "footer": "Vema · personální a mzdové systémy",
+    "confidentialityLabel": "Neveřejné",
+    "logo": "/brand/vema-logo.png",
+    "logoWhite": "/brand/vema-logo-white.png"
+  },
+  "company": {
+    "eyebrow": "O společnosti",
+    "title": "Vema – více než 30 let pro personální a mzdové procesy",
+    "paragraphs": [
+      "Vema je součástí skupiny Seyfor, která vznikla spojením předních IT firem působících v sedmi evropských zemích. Na trhu s personálními a mzdovými systémy působíme od roku 1990.",
+      "V rámci skupiny tvoříme divizi Payroll and Human Resources. Pobočky máme v Brně, Praze, Ostravě, Českých Budějovicích, Bratislavě a Banské Bystrici.",
+      "Specializujeme se na českou a slovenskou legislativu a komplexní pokrytí personálních procesů. Naše řešení používá přes 8 200 zákazníků, z toho 2 500 v cloudu, a měsíčně zpracováváme více než 700 000 mezd."
+    ],
+    "timeline": [
+      {
+        "year": "1990",
+        "text": "Vznik značky Vema a prvních personálních systémů"
+      },
+      {
+        "year": "2014",
+        "text": "Vznik společnosti Solitea a začátek akviziční činnosti"
+      },
+      {
+        "year": "2020",
+        "text": "Fúze získaných firem do společnosti Solitea"
+      },
+      {
+        "year": "2022",
+        "text": "Změna názvu skupiny na Seyfor"
+      }
+    ],
+    "stats": [
+      {
+        "value": "1990",
+        "label": "na trhu od roku"
+      },
+      {
+        "value": "8 200+",
+        "label": "zákazníků v ČR a SR"
+      },
+      {
+        "value": "700 000",
+        "label": "mezd měsíčně"
+      },
+      {
+        "value": "130",
+        "label": "zaměstnanců"
+      }
+    ],
+    "bullets": [
+      "Česká a slovenská legislativa",
+      "2 500 zákazníků v cloudu",
+      "248 mil. Kč roční obrat",
+      "22 prodejních a konzultačních partnerů"
+    ]
+  },
+  "categories": [
+    {
+      "id": "mzdy",
+      "name": "Mzdy a docházka",
+      "color": "#1665D8"
+    },
+    {
+      "id": "personalistika",
+      "name": "Personální procesy",
+      "color": "#0E9F6E"
+    },
+    {
+      "id": "nastup",
+      "name": "Nástup a výstup",
+      "color": "#7B4DFF"
+    },
+    {
+      "id": "rozvoj",
+      "name": "Rozvoj a odměny",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "doplnkove",
+      "name": "Doplňkové moduly",
+      "color": "#D9435F"
+    },
+    {
+      "id": "technologie",
+      "name": "Technologie a integrace",
+      "color": "#0EA5B7"
+    }
+  ],
+  "topics": [
+    {
+      "id": "mzdy",
+      "categoryId": "mzdy",
+      "title": "Mzdy a platová agenda",
+      "subtitle": "Komplexní výpočet a zpracování mezd i platů",
+      "description": "Kompletní mzdová a platová agenda včetně legislativních vazeb, souběžných pracovních vztahů, zpětných přepočtů a výstupů pro banky, pojišťovny i kontrolní orgány.",
+      "bullets": [
+        "Komplexní výpočet a zpracování mezd/platů",
+        "Více souběžných pracovněprávních vztahů",
+        "Platná legislativa v časové řadě, zpětné přepočty až 12 měsíců",
+        "Hromadné pořizování dat a elektronické výstupy",
+        "Podklady pro ZP, SSZ, ISP, FÚ a komunikace s bankami"
+      ],
+      "narration": "Modul Mzdy zajišťuje kompletní výpočet a zpracování mezd i platů. Pokrývá souběžné pracovní vztahy, legislativu v časové řadě a zpětné přepočty až dvanáct měsíců. Výstupy jsou připravené pro banky, pojišťovny i kontrolní orgány.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "dochazka",
+      "categoryId": "mzdy",
+      "title": "Docházka",
+      "subtitle": "Evidence průchodů a pracovní doby",
+      "description": "Snímání průchodů z terminálů, webové i mobilní aplikace, zpracování pevné i pružné pracovní doby a předání podkladů do mezd.",
+      "bullets": [
+        "Terminály, webová a mobilní aplikace",
+        "Evidence přestávek a důvodů průchodu",
+        "Pevná i všechny formy pružné pracovní doby",
+        "Docházková karta s denními a měsíčními výkazy",
+        "Saldo pracovní doby a návaznost na mzdy"
+      ],
+      "narration": "Docházka sbírá průchody z hardwarových terminálů, webu i mobilní aplikace. Zpracovává přestávky, pevnou i pružnou pracovní dobu a vytváří docházkovou kartu s měsíčními výkazy. Schválená data vstupují přímo do mezd.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "planovani",
+      "categoryId": "mzdy",
+      "title": "Plánování nepřítomnosti a směn",
+      "subtitle": "Dovolená, směny a fond pracovní doby pod kontrolou",
+      "description": "Webové žádanky o nepřítomnost s on-line schvalováním, přehled nároku dovolené a dlouhodobý i operativní plán směn.",
+      "bullets": [
+        "Žádanky o nepřítomnost přes web a on-line schvalování",
+        "Přehled dovolené a hlídání nároku zaměstnance",
+        "Dlouhodobý i operativní plán směn",
+        "Definice směn, pohotovostí a rozvržení dne",
+        "Porovnání plánu s fondem pracovní doby"
+      ],
+      "narration": "Plánování nepřítomnosti a směn pokrývá žádanky o dovolenou, jejich on-line schvalování i hlídání nároku. Umožňuje vytvářet dlouhodobé i operativní plány směn, definovat pohotovosti a porovnávat plán s fondem pracovní doby.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "naklady",
+      "categoryId": "mzdy",
+      "title": "Plánování osobních nákladů",
+      "subtitle": "Plán mezd a rozpočtu v několika variantách",
+      "description": "Nástroj pro plánování mzdových prostředků, modelování variant a porovnání plánu se skutečností. Vychází z tarifů, příplatků i dat ze systemizace.",
+      "bullets": [
+        "Plán mzdových prostředků na další období",
+        "Vychází z tarifů, příplatků a skutečnosti",
+        "Plánování po útvarech a systemizovaných místech",
+        "Modelování variant a dopadů mzdových úprav",
+        "Porovnání plánu se skutečností a reporting"
+      ],
+      "narration": "Plánování osobních nákladů umožňuje sestavit rozpočet mezd v několika variantách. Zohledňuje tarify, příplatky, benefity i systemizaci míst. Výsledný plán lze porovnat se skutečností a použít jako podklad pro finanční rozpočet organizace.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "cesty",
+      "categoryId": "mzdy",
+      "title": "Cestovní příkazy",
+      "subtitle": "Tuzemské i zahraniční pracovní cesty",
+      "description": "Kompletní zpracování cestovních příkazů od pořízení přes schvalování až po vyúčtování a proplacení náhrad.",
+      "bullets": [
+        "Tuzemské i zahraniční pracovní cesty",
+        "Webový formulář a vícestupňové schvalování",
+        "Knihy jízd a výpočet cestovních náhrad",
+        "Proplacení náhrad ve mzdě",
+        "Podklady pro silniční daň"
+      ],
+      "narration": "Cestovní příkazy řeší celý proces pracovních cest od pořízení přes schválení až po vyúčtování. Obsahují knihy jízd, výpočet náhrad a možnost proplatit náhrady přímo ve mzdě. Data jsou připravená i pro silniční daň.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "stravne",
+      "categoryId": "mzdy",
+      "title": "Stravné",
+      "subtitle": "Stravenky a stravovací karty",
+      "description": "Evidence pořízených a vydaných stravenek, čerpání podle nároku a přehled pohybů na skladu i na stravovacích kartách.",
+      "bullets": [
+        "Evidence pořízených a vydaných stravenek",
+        "Čerpání podle nároku za odpracovanou dobu",
+        "Přehled stravovacích karet a pohybů skladu",
+        "Ruční plnění i přenos z docházky",
+        "Návaznost na mzdy a benefity"
+      ],
+      "narration": "Modul Stravné eviduje stravenky od pořízení přes výdej až po čerpání. Nárok se může plnit ručně nebo se přenáší z docházky. Přehledy ukazují stav stravovacích karet i pohyby na skladu.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "dokumenty",
+      "categoryId": "mzdy",
+      "title": "Dokumenty a potvrzení",
+      "subtitle": "Elektronické předávání dokumentů oběma směry",
+      "description": "Generování dokumentů z dat mezd, elektronický podpis, hromadné předání i potvrzení převzetí zaměstnancem.",
+      "bullets": [
+        "Elektronické předávání dokumentů a potvrzení",
+        "Generování dokumentů přímo z dat mezd",
+        "Elektronický podpis a hromadné zpracování",
+        "ELDP, potvrzení o příjmech, roční zúčtování",
+        "Notifikace e-mailem a evidence převzetí"
+      ],
+      "narration": "Dokumenty a potvrzení umožňují elektronické předávání dokumentů mezi zaměstnavatelem a zaměstnancem. Dokumenty se generují z dat mezd, lze je opatřit elektronickým podpisem a předávat hromadně. Typicky jde o evidenční listy důchodového pojištění nebo potvrzení o příjmech.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "prohlaseni",
+      "categoryId": "mzdy",
+      "title": "Prohlášení poplatníka DPFO",
+      "subtitle": "Formulář vyplněný a odsouhlasený na portálu",
+      "description": "Předvyplnění interaktivního formuláře MFin 5457, odsouhlasení zaměstnancem a uložení souhlasu s váhou podpisu.",
+      "bullets": [
+        "Předvyplnění formuláře MFin 5457",
+        "Odsouhlasení zaměstnancem na portálu",
+        "Souhlas má z pohledu legislativy váhu podpisu",
+        "Hromadný tisk sestavy pro mzdovou účtárnu",
+        "Volitelně žádost o roční zúčtování"
+      ],
+      "narration": "Prohlášení poplatníka DPFO připraví interaktivní formulář, který zaměstnanec na portálu zkontroluje a odsouhlasí. Souhlas se uloží s časem a má váhu podpisu. Mzdová účtárna navíc získává sestavu pro hromadný tisk.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "zmena-udaju",
+      "categoryId": "mzdy",
+      "title": "Změna osobních údajů",
+      "subtitle": "Bezkontaktní oznámení změn zaměstnancem",
+      "description": "Zaměstnanec odešle oznámení změny včetně příloh, mzdová účetní jej ověří a schválí. Data se uloží automaticky.",
+      "bullets": [
+        "Bezkontaktní oznámení změn osobních údajů",
+        "Přílohy a verifikace mzdovou účetní",
+        "Adresa, bankovní účet, zdravotní pojišťovna, děti",
+        "Změna příjmení, občanského průkazu, pasu, důchodu, ZTP",
+        "Automatické uložení schválených změn do databáze"
+      ],
+      "narration": "Zaměstnanec může přes portál oznámit změnu osobních údajů a přiložit potřebné dokumenty. Mzdová účetní změnu ověří, případně si vyžádá doplnění, a schválená data se automaticky uloží. Pokrývá adresu, účet, pojišťovnu, děti i změnu příjmení nebo průkazu.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "mobilni-vylistek",
+      "categoryId": "mzdy",
+      "title": "Mobilní výplatní lístek",
+      "subtitle": "Výplatní lístek v mobilu i šifrovaném PDF",
+      "description": "Odesílání výplatních lístků do mobilní aplikace pro iOS a Android nebo jako šifrované PDF do e-mailu.",
+      "bullets": [
+        "Výplatní lístek v mobilní aplikaci",
+        "Šifrované PDF do e-mailové schránky",
+        "Historie a synchronizace přes cloud",
+        "iOS a Android",
+        "Ochrana citlivých dat a biometrika"
+      ],
+      "narration": "Mobilní výplatní lístek doručuje výplatu do mobilní aplikace nebo jako šifrované PDF e-mailem. Umožňuje ukládat historii, synchronizovat zařízení a porovnávat složky mzdy v čase. Citlivá data chrání šifrování a biometrika v zařízení.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "eneschopenka",
+      "categoryId": "doplnkove",
+      "title": "eNeschopenka",
+      "subtitle": "Automatické údaje o dočasné pracovní neschopnosti",
+      "description": "Napojení na službu DZDPN a ČSSZ přes VREP. Systém automaticky získává a eviduje informace o vzniku, trvání a ukončení DPN.",
+      "bullets": [
+        "Automatizované získávání údajů o DPN",
+        "Komunikace přes DZDPN a VREP ČSSZ",
+        "Evidence podání a odpovědí",
+        "Přehled zaměstnanců v pracovní neschopnosti",
+        "e-podání hlášení při ukončení neschopnosti"
+      ],
+      "narration": "eNeschopenka automaticky získává informace o dočasné pracovní neschopnosti zaměstnanců přes službu DZDPN. Všechna podání a odpovědi jsou evidované a data se ukládají do sociálních událostí. Součástí je i přehled zaměstnanců v neschopnosti a elektronické hlášení při jejím ukončení.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "insolvence",
+      "categoryId": "doplnkove",
+      "title": "Insolvenční rejstřík",
+      "subtitle": "Kontrola, zda je se zaměstnancem vedeno insolvenční řízení",
+      "description": "Ověření aktuálního stavu insolvenčního řízení u zaměstnanců a upozornění na nové nebo ukončené řízení.",
+      "bullets": [
+        "Ověření insolvenčního řízení u zaměstnanců",
+        "Upozornění na nový záznam i ukončení řízení",
+        "Odkaz na detail řízení v rejstříku",
+        "Podpora rozhodnutí o dopadu na mzdy",
+        "Nutné připojení k internetu"
+      ],
+      "narration": "Modul prověřuje, zda je se zaměstnancem vedeno insolvenční řízení. Upozorňuje na nové záznamy i na ukončení řízení a nabízí odkaz na detaily v rejstříku. O dopadu na zpracování mzdy však musí rozhodnout uživatel.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "jmhz",
+      "categoryId": "doplnkove",
+      "title": "JMHZ – Jednotné měsíční hlášení zaměstnavatelů",
+      "subtitle": "Nová povinnost, jedno hlášení místo desítek",
+      "description": "Modul zjednodušuje plnění povinností v rámci jednotného měsíčního hlášení zaměstnavatelů. Slučuje registraci zaměstnavatele, registraci zaměstnance a pravidelné měsíční hlášení do jednoho elektronického procesu.",
+      "bullets": [
+        "Registrace zaměstnavatele a zaměstnance",
+        "Jedno měsíční hlášení místo desítek dílčích",
+        "Online podání přes VREP s šifrováním a podpisem",
+        "Generování XML pro ruční podání",
+        "Návaznost na mzdy a ČSSZ"
+      ],
+      "narration": "JMHZ zjednodušuje jednotné měsíční hlášení zaměstnavatelů. Slučuje registraci zaměstnavatele, registraci zaměstnance a pravidelné měsíční hlášení do jednoho elektronického procesu. Podání probíhá online přes VREP, případně lze vygenerovat XML pro ruční podání.",
+      "badge": "Novinka",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "personalistika",
+      "categoryId": "personalistika",
+      "title": "Personalistika",
+      "subtitle": "Všechny osobní a pracovněprávní údaje na jednom místě",
+      "description": "Evidence osobních údajů, pracovních vztahů, dokumentů a personálních událostí s možností notifikací a uživatelských sestav.",
+      "bullets": [
+        "Evidence osobních a pracovněprávních údajů",
+        "Personální události a notifikace",
+        "Dokumenty, lékařské prohlídky, vzdělání, průkazy",
+        "Uživatelské sestavy, exporty a datový editor",
+        "Konfigurovatelné formuláře a přístup podle rolí"
+      ],
+      "narration": "Personalistika soustředí všechny osobní a pracovněprávní údaje na jedno místo. Sleduje personální události, lékařské prohlídky, vzdělání i dokumenty a umí na ně upozornit. Součástí jsou uživatelské sestavy, exporty a konfigurace formulářů podle potřeb organizace.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "portal",
+      "categoryId": "personalistika",
+      "title": "Portál zaměstnance",
+      "subtitle": "Samoobsluha bez instalace a školení",
+      "description": "Responzivní webová aplikace pro zaměstnance i vedoucí. Zobrazuje osobní údaje, mzdové přehledy, dokumenty a umožňuje samoobslužné procesy.",
+      "bullets": [
+        "Responzivní web bez instalace na pracovní stanici",
+        "Osobní údaje, mzdové přehledy a dokumenty",
+        "Žádanky, nepřítomnost a samoobsluha",
+        "Personalizace nabídky podle role",
+        "Autentizace a zabezpečený přístup"
+      ],
+      "narration": "Portál zaměstnance je webová aplikace dostupná bez instalace a bez školení. Zaměstnanci v ní najdou osobní údaje, mzdové přehledy, dokumenty a samoobslužné žádanky. Nabídka funkcí se přizpůsobuje roli uživatele a přístup je zabezpečený autentizací.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "systemizace",
+      "categoryId": "personalistika",
+      "title": "Systemizace",
+      "subtitle": "Organizační struktura a systemizovaná místa v čase",
+      "description": "Evidence organizační struktury a systemizovaných míst v časových řadách, včetně grafického editoru a plánování změn.",
+      "bullets": [
+        "Organizační struktura v časové ose",
+        "Systemizovaná místa a kvalifikační požadavky",
+        "Grafický editor organizačních schémat",
+        "Obsazování, rezervace a uvolňování míst",
+        "Plánování organizačních změn a vyhodnocení"
+      ],
+      "narration": "Systemizace eviduje organizační strukturu a systemizovaná místa v časové ose. Umožňuje definovat kvalifikační požadavky, obsazovat a rezervovat místa a kreslit organizační schémata v grafickém editoru. Lze v ní plánovat budoucí organizační změny.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "benefity",
+      "categoryId": "personalistika",
+      "title": "Benefity",
+      "subtitle": "Čerpání benefitů z fondů organizace",
+      "description": "Evidence přiznaných benefitů, čerpání z fondů a převodů nevyčerpaných prostředků. Volitelně i volba benefitů na portálu.",
+      "bullets": [
+        "Čerpání benefitů z fondů organizace",
+        "Karty zaměstnanců a evidence dokladů",
+        "Dotace z FKSP a převody nevyčerpaných prostředků",
+        "Volba benefitů přímo na portálu",
+        "Přehled čerpání v daném období"
+      ],
+      "narration": "Benefity evidují čerpání prostředků, které byly zaměstnancům přiznány z fondů organizace. Umožňují dotovat čerpání z FKSP, převádět nevyčerpané prostředky a na portálu nabídnout volbu benefitů. Personalisté mají přehled o čerpání v celém období.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "komunikace",
+      "categoryId": "personalistika",
+      "title": "Komunikace se zaměstnanci",
+      "subtitle": "Sdělení, ankety, dokumenty a nástěnka",
+      "description": "Sada nástrojů pro interní komunikaci od krátkých sdělení přes ankety až po dokumenty s povinným seznámením.",
+      "bullets": [
+        "Sdělení, novinky a ankety",
+        "Hlášení škod, úrazů a závad",
+        "Volná místa, benefity a nástěnka",
+        "Dokumenty s povinným seznámením",
+        "FAQ, dotazy a schránka důvěry"
+      ],
+      "narration": "Komunikace se zaměstnanci nabízí krátká sdělení, novinky, ankety i hlášení škod a závad. Personalisté mohou zveřejňovat volná místa, benefity a dokumenty s povinným seznámením. Součástí je i nástěnka, FAQ a schránka důvěry.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "vzdelavani",
+      "categoryId": "rozvoj",
+      "title": "Vzdělávání",
+      "subtitle": "Plány vzdělávání, školení a e-learning",
+      "description": "Katalog vzdělávacích akcí, plány vzdělávání, přihlašování, e-learning s testy a přehled nákladů na rozvoj.",
+      "bullets": [
+        "Katalog a evidence vzdělávacích akcí",
+        "Plány vzdělávání a přihlašování zaměstnanců",
+        "E-learning a testy nabytých znalostí",
+        "Sledování expirace certifikací a osvědčení",
+        "Přehled nákladů na vzdělávání"
+      ],
+      "narration": "Vzdělávání pokrývá katalog akcí, plány rozvoje i přihlašování zaměstnanců. Součástí je e-learning s testy znalostí a automatické sledování expirace certifikací. Personalisté mají přehled o nákladech na jednotlivé akce i zaměstnance.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "hodnoceni",
+      "categoryId": "rozvoj",
+      "title": "Hodnocení zaměstnanců",
+      "subtitle": "Cíle, váhy a pravidelné vyhodnocování",
+      "description": "Platforma pro definici hodnotícího systému postaveného na osobních cílech, jejich vahách a víceúrovňovém hodnocení.",
+      "bullets": [
+        "Definice hodnotícího systému na míru",
+        "Osobní cíle a jejich váhy",
+        "Sebeohodnocení, hodnocení vedoucím a nadřízeným",
+        "Pravidelné kvartální, pololetní nebo roční vyhodnocení",
+        "Návaznost výsledků na odměny"
+      ],
+      "narration": "Hodnocení zaměstnanců umožňuje nastavit hodnotící systém podle potřeb organizace. Zaměstnanci mají osobní cíle s vlastními vahami a hodnocení probíhá postupně od sebehodnocení po vedoucího. Výsledky mohou být navázané na odměny.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "odmeny",
+      "categoryId": "rozvoj",
+      "title": "Rozdělování odměn",
+      "subtitle": "Mimořádné i pravidelné odměny podle pravidel",
+      "description": "Výpočet návrhů odměn podle pravidel organizace, s podporou rozpočtů útvarů i pracovníků a skriptů na míru.",
+      "bullets": [
+        "Mimořádné odměny bez rozpočtu",
+        "Mimořádné a pravidelné odměny z rozpočtu útvaru",
+        "Pravidelné a cílové odměny z rozpočtu pracovníka",
+        "Pravidla výpočtu formou skriptů na míru",
+        "Podklady pro zpracování ve mzdách"
+      ],
+      "narration": "Rozdělování odměn připravuje návrhy mimořádných i pravidelných odměn podle pravidel organizace. Podporuje rozpočty útvarů i jednotlivých pracovníků a výpočtové skripty na míru. Výsledné návrhy se předávají do mezd.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "nastupni-list",
+      "categoryId": "nastup",
+      "title": "Nástupní a změnový list",
+      "subtitle": "Elektronické schválení parametrů úvazku",
+      "description": "Formulář nástupního a změnového listu s definovaným procesem schvalování a návazností na Personalistiku.",
+      "bullets": [
+        "Elektronický nástupní a změnový list",
+        "Uživatelsky definovaný proces schvalování",
+        "Parametry úvazku, pracoviště a odměňování",
+        "Schválený list založí pracovníka v Personalistice",
+        "Přehled stavu a historie schvalování"
+      ],
+      "narration": "Nástupní a změnový list umožňuje elektronicky schválit parametry nového úvazku. Obsahuje pracoviště, funkci, dobu úvazku i složky odměňování. Po schválení se podle něj pracovník založí v Personalistice.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "nastup",
+      "categoryId": "nastup",
+      "title": "Nástup zaměstnance",
+      "subtitle": "Proces nástupu s úkoly, termíny a notifikacemi",
+      "description": "Řízený proces nástupu, který rozdělí úkoly mezi kolegy, hlídá termíny a eviduje jejich splnění.",
+      "bullets": [
+        "Proces nástupu s definovanými kroky a úkoly",
+        "Rozdělení úkolů mezi zapojené osoby",
+        "Sledování průběhu, termínů a potvrzení",
+        "Notifikace zaměstnance i kolegů",
+        "Portálové řešení bez instalace"
+      ],
+      "narration": "Nástup zaměstnance řídí celý proces od prvního dne. Úkoly se rozdělí mezi personalisty, vedoucí a další kolegy a systém hlídá termíny i jejich splnění. Všichni zapojení dostávají notifikace a výsledek je evidovaný v systému.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "adaptace",
+      "categoryId": "nastup",
+      "title": "Adaptace zaměstnance",
+      "subtitle": "Adaptační plány s cíli a mentory",
+      "description": "Sestavení a evidence adaptačních plánů, sledování jejich průběhu a závěrečné vyhodnocení.",
+      "bullets": [
+        "Adaptační plány a adaptační požadavky",
+        "Termíny, cíle a přiřazení mentoři",
+        "Sledování průběhu adaptace",
+        "Vyhodnocení výsledku adaptace",
+        "Workflow a portálové řešení"
+      ],
+      "narration": "Adaptace zaměstnance umožňuje sestavit adaptační plán s konkrétními požadavky, termíny, cíli a mentory. Průběh se sleduje a na konci se vyhodnotí. Řešení je postavené na workflow a portálu, takže je dostupné bez instalace.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "odz",
+      "categoryId": "nastup",
+      "title": "ODZ – Osobní dotazník zaměstnance",
+      "subtitle": "Bezpečný sběr údajů od vybraného uchazeče",
+      "description": "Uchazeč obdrží tajný unikátní odkaz do své e-mailové schránky, vyplní webový dotazník a zaměstnavatel ověřená data propíše do IS Vema.",
+      "bullets": [
+        "Tajný unikátní odkaz do e-mailu uchazeče",
+        "Webový dotazník bez instalace",
+        "Ruční vyplnění, připravujeme podporu BankID",
+        "Ověření dat pověřenou osobou",
+        "Propis do IS Vema, ideálně s nástupním listem"
+      ],
+      "narration": "Osobní dotazník zaměstnance řeší sběr údajů na konci náboru. Vybraný uchazeč dostane tajný odkaz, vyplní webový dotazník a odešle ho budoucímu zaměstnavateli. Pověřená osoba data ověří a propíše do IS Vema. Do budoucna počítáme i s využitím BankID.",
+      "badge": "Novinka",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "vystup",
+      "categoryId": "nastup",
+      "title": "Výstup zaměstnance",
+      "subtitle": "Reverzní proces k nástupu",
+      "description": "Řízený proces ukončení pracovního poměru včetně vrácení vybavení, blokace účtů a potvrzení jednotlivých kroků.",
+      "bullets": [
+        "Reverzní proces k nástupu zaměstnance",
+        "Vrácení vybavení, karet a pomůcek",
+        "Blokace účtů a zrušení oprávnění",
+        "Rozdělení úkolů a notifikace",
+        "Potvrzení vyřízení a evidence průběhu"
+      ],
+      "narration": "Výstup zaměstnance je reverzní proces k nástupu. Řídí vrácení vybavení, karet a pomůcek, blokaci účtů a zrušení oprávnění. Úkoly se rozdělují mezi odpovědné osoby a jejich splnění se eviduje.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "integrace",
+      "categoryId": "technologie",
+      "title": "Adresářové služby a Vema SSO",
+      "subtitle": "Propojení s firemní IT infrastrukturou",
+      "description": "Synchronizace s LDAP a Active Directory, jednotné přihlašování pro Vema Klienta i Portál a podpora standardních autentizačních technologií.",
+      "bullets": [
+        "Synchronizace údajů s LDAP a Active Directory",
+        "Vytváření, změny a blokace účtů",
+        "Návaznost na systemizaci a organizační strukturu",
+        "Single Sign-On pro Vema Klienta i Portál",
+        "ADFS, SAML 2.0 a dvoufaktorové ověření"
+      ],
+      "narration": "Adresářové služby propojují Vema s LDAP a Active Directory. Účty se vytvářejí, mění a blokují automaticky podle personálních procesů. Vema SSO navíc umožňuje jednotné přihlášení pro desktop i portál, včetně ADFS, SAML a dvoufaktorového ověření.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "gdpr",
+      "categoryId": "technologie",
+      "title": "GDPR",
+      "subtitle": "Nástroje pro ochranu osobních údajů",
+      "description": "Export dat subjektu, výmaz podle pominutí účelu, kategorizace údajů, logování a podpora tvorby interních směrnic.",
+      "bullets": [
+        "Export osobních údajů ve formátu XML a PDF",
+        "Postupné mazání podle pominutí účelu",
+        "Kategorizace údajů a protokoly o výmazu",
+        "Logování a analýza přístupů",
+        "Podpora tvorby metodiky a směrnic"
+      ],
+      "narration": "GDPR rozšiřuje standardní povinnosti o nástroje pro export a výmaz osobních údajů. Umožňuje kategorizovat data, spouštět mazání nanečisto a vést podrobné protokoly. Součástí je logování a podpora při tvorbě interních směrnic.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "cloud",
+      "categoryId": "technologie",
+      "title": "Vema Cloud a bezpečnost",
+      "subtitle": "Provoz bez starostí o infrastrukturu",
+      "description": "Možnost provozovat HR systém jako cloudovou službu v datovém centru, s garancí dostupnosti, zabezpečením a správou ze strany Vema.",
+      "bullets": [
+        "Provoz v zabezpečeném datovém centru",
+        "Bez instalace a správy vlastní infrastruktury",
+        "Garance provozu a dostupnosti",
+        "SSL, bezpečnostní model a řízení přístupů",
+        "Archivace, žurnálování a ochrana dat"
+      ],
+      "narration": "Vema Cloud umožňuje provozovat systém jako službu v datovém centru. Zákazník nemusí řešit instalace, správu dat ani infrastrukturu a získává garanci provozu a dostupnosti. Bezpečnost zajišťuje SSL, řízení přístupů, archivace a žurnálování.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "odbc",
+      "categoryId": "technologie",
+      "title": "Vema ODBC Provider",
+      "subtitle": "Živá data Vema v Excelu a Power BI",
+      "description": "Standardní ODBC rozhraní pro přístup k datům Vema z externích aplikací, bez opakovaných exportů a importů.",
+      "bullets": [
+        "Standardní ODBC rozhraní",
+        "Živá data v Excelu, Power BI a dalších nástrojích",
+        "Bez nutnosti opakovaných exportů",
+        "Podpora Unicode a ODBC 3.0",
+        "Možnost exportu do jiných databázových systémů"
+      ],
+      "narration": "Vema ODBC Provider zpřístupňuje data Vema standardním rozhraním ODBC. Externí nástroje, jako Excel nebo Power BI, tak zobrazují vždy aktuální data bez opakovaných exportů. Podporuje Unicode a ODBC verze 3.0.",
+      "sectors": [
+        "verejna-sprava",
+        "zdravotnictvi",
+        "skolstvi",
+        "komerce"
+      ],
+      "enabled": true
+    }
+  ],
+  "sectors": [
+    {
+      "id": "verejna-sprava",
+      "name": "Státní a veřejná správa",
+      "short": "Veřejná správa",
+      "description": "Úřad vlády, kancelář prezidenta, ministerstva, kraje, magistráty, města a obce.",
+      "proTitle": "veřejnou správu"
+    },
+    {
+      "id": "zdravotnictvi",
+      "name": "Zdravotnictví",
+      "short": "Zdravotnictví",
+      "description": "Fakultní, krajské, okresní a městské nemocnice, specializované ústavy, hygiena, zdravotní pojišťovny.",
+      "proTitle": "zdravotnictví"
+    },
+    {
+      "id": "skolstvi",
+      "name": "Školství",
+      "short": "Školství",
+      "description": "Univerzity, střední školy a gymnázia, základní školy a mateřské školy.",
+      "proTitle": "školství"
+    },
+    {
+      "id": "komerce",
+      "name": "Komerční firmy",
+      "short": "Komerce",
+      "description": "Výroba, obchod a služby.",
+      "proTitle": "komerční firmy"
+    }
+  ],
+  "referenceImages": {
+    "verejna-sprava": "/references/verejna-sprava.png",
+    "zdravotnictvi": "/references/zdravotnictvi.png",
+    "skolstvi": "/references/skolstvi.png",
+    "komerce": "/references/komerce.png"
+  },
+  "references": [],
+  "salespeople": [
+    {
+      "id": "vema",
+      "name": "Obchodní konzultant Vema",
+      "role": "Personální a mzdové systémy",
+      "phone": "+420 541 000 000",
+      "email": "obchod@vema.cz",
+      "note": "Ukázkový kontakt – doplnit konkrétního obchodníka."
+    }
+  ],
+  "narrations": {
+    "cover": "Dobrý den, děkuji za váš čas. Připravil jsem pro vás nabídku HR systému Vema pro {customer}. Vybrané moduly vycházejí z oblastí, které jsme spolu probrali.",
+    "overview": "Toto je výběr modulů, které pro vás připravujeme. Nabídka obsahuje {count} modulů z těchto oblastí: {categories}.",
+    "company": "Vema se personálním a mzdovým systémům věnuje od roku 1990 a je součástí skupiny Seyfor. Naše řešení dnes používá přes osm tisíc organizací a měsíčně zpracováváme více než sedm set tisíc mezd.",
+    "references": "Ve vašem segmentu {sector} máme řadu referencí. Na následujícím slidu najdete výběr organizací, které systém Vema používají.",
+    "summary": "Nabídka obsahuje {count} modulů. {priceSentence} Podrobnou cenovou kalkulaci a harmonogram najdete v samostatných přílohách.",
+    "contact": "Děkuji za pozornost. Rád vám nabídku upřesním a připravím ukázku systému. Těším se na další spolupráci."
+  },
+  "settings": {
+    "currency": "Kč",
+    "quotationLabel": "Cenová nabídka",
+    "quotationNote": "Cena je součástí samostatné cenové nabídky ve formátu XLSX. Závaznou cenu lze stanovit po předimplementační analýze.",
+    "priceNote": "Uvedená cena je orientační, bez DPH. Podrobný rozpis a harmonogram jsou součástí samostatné cenové nabídky.",
+    "nextSteps": [
+      "Upřesnění rozsahu modulů a počtu uživatelů",
+      "Předimplementační analýza a ukázka systému",
+      "Závazná cenová nabídka a harmonogram",
+      "Implementace, migrace dat a zkušební provoz"
+    ]
+  }
+}

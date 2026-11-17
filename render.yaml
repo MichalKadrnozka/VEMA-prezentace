@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: vema-presenter
+    env: docker
+    plan: starter
+    autoDeploy: true
+    envVars:
+      - key: DATA_DIR
+        value: /data
+      - key: APP_PASSWORD
+        sync: false
+    disk:
+      name: vema-data
+      mountPath: /data
+      sizeGB: 1
